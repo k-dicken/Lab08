@@ -12,13 +12,13 @@ class ComposerStaticInit96e33d1d210d1822d24bcaf4aacd100d
         'Composer\\Autoload\\ComposerStaticInit96e33d1d210d1822d24bcaf4aacd100d' => __DIR__ . '/..' . '/composer/autoload_static.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Database' => __DIR__ . '/../..' . '/application/database.class.php',
+        'Dispatcher' => __DIR__ . '/../..' . '/application/dispatcher.class.php',
         'Guest' => __DIR__ . '/../..' . '/models/guest.class.php',
         'GuestController' => __DIR__ . '/../..' . '/controllers/guest_controller.class.php',
         'GuestError' => __DIR__ . '/../..' . '/views/error/guest_error.class.php',
+        'GuestIndex' => __DIR__ . '/../..' . '/views/index/index.class.php',
         'GuestModel' => __DIR__ . '/../..' . '/models/guest_model.class.php',
-        'GuestSign' => __DIR__ . '/../..' . '/views/sign/guest_sign.class.php',
-        'Index' => __DIR__ . '/../..' . '/views/index/index.class.php',
-        'guest_show' => __DIR__ . '/../..' . '/views/show/guest_show.class.php',
+        'GuestShow' => __DIR__ . '/../..' . '/views/show/show_guest.class.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
