@@ -3,7 +3,7 @@
  * Author: Kylee Dicken
  * Date: 3/31/2022
  * Name: guest_controller.class.php
- * Description: home index page
+ * Description: guest controller
  */
 
 class GuestController {

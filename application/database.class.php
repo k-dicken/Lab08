@@ -1,4 +1,11 @@
 <?php
+/*
+ * Author: Kylee Dicken
+ * Date: Apr 8, 2022
+ * File: database.class.php
+ * Description: Description: the Database class sets the database details
+ *
+ */
 
 class Database {
 //define database parameters

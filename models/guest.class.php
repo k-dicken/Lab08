@@ -3,7 +3,7 @@
  * Author: Kylee Dicken
  * Date: 3/31/2022
  * Name: guest.class.php
- * Description: home index page
+ * Description: guest
  */
 
 class Guest {
